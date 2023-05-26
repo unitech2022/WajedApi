@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "lz4cY9p0saQLjmwKhZZLleUbXFlx2SA+INS0wUy9H4s=",
+  "Source": "WajedApi",
+  "BasePath": "_content/WajedApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WajedApi/wwwroot",
+      "Source": "WajedApi",
+      "ContentRoot": "/Users/gatekee/projects/WajedApi/wwwroot/",
+      "BasePath": "_content/WajedApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/gatekee/projects/WajedApi/wwwroot/images/20221109T215252.jpeg",
+      "SourceId": "WajedApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/gatekee/projects/WajedApi/wwwroot/",
+      "BasePath": "_content/WajedApi",
+      "RelativePath": "images/20221109T215252.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/20221109T215252.jpeg"
+    }
+  ]
+}
